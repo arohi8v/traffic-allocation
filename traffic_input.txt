@@ -1,0 +1,25 @@
+# Adjacency Matrix
+4
+0 1 0 0
+1 0 1 1
+0 1 0 0
+0 1 0 0
+# Wait Node Capacities
+A: 10
+B: 0
+C: 12
+D: 8
+# Traffic Controller Nodes
+B
+# Initial traffic allocation
+A: 10
+C: 4
+#Ambulances
+A:4
+C:1
+#firetrucks
+A:1
+C:2
+# Destination Nodes
+A:D
+C:A
